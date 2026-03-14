@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DotNet.Multithreading.Examples/DotNet.Multithreading.Examples.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DotNet.Multithreading.Tests/DotNet.Multithreading.Tests.csproj" />
+  </Folder>
+</Solution>

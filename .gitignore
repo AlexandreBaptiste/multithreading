@@ -1,0 +1,21 @@
+# Build artifacts
+**/bin/
+**/obj/
+
+# DocFX generated output
+docs/_site/
+docs/api/
+
+# VS
+.vs/
+*.user
+
+# Rider
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Github
+.github/
